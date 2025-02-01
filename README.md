@@ -15,6 +15,8 @@ Say it Aloud is a web application that allows users to convert Bengali speech to
 Host the model on Hugging Face Inference API.<br/>
 Model ID: `https://huggingface.co/bangla-speech-processing/BanglaASR`
 
+Rename `.env.default` to `.env` and update the `HF_MODEL_URL` and `HF_TOKEN` in the `.env` file.
+
 ## Installation
 
 ```
